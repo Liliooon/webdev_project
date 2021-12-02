@@ -10,4 +10,4 @@ def words_counter(text):
     return len(text.split())
 
 if __name__ == '__main__':
-	app.run(debug=True)
+    app.run(debug=True)
